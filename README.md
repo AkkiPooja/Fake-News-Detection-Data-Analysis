@@ -5,4 +5,4 @@ The FakeNews Detection contains the analysis of fake news and true news from dat
 
 The twitter news data.ipynb has code which generates the csv file of the data got from the twitter
 
-fake.csv, true.csv and twitter.csv is used for analysis
+fake.csv, true.csv and tweets.csv is used for analysis
